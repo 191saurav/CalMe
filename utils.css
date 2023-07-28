@@ -1,0 +1,23 @@
+.text-center{
+    text-align: center;
+    margin: 30px 0px;
+    font-size: 2rem;
+    text-decoration: underline;
+
+}
+
+
+
+.mx-auto{
+    margin: auto;
+}
+ 
+.flex{
+ display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
